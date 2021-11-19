@@ -1,0 +1,45 @@
+---User overview---
+The total number of users 6 
+The total number of tasks generated 8 
+
+Username : admin 
+Total tasks, 2 
+Percentage of tasks, 25.0 
+Percentage of completed tasks, 0.0 
+Percentage of incomplete tasks, 100.0 
+Percentage of overdue tasks, 100.0 
+
+Username : bayloo 
+Total tasks, 2 
+Percentage of tasks, 25.0 
+Percentage of completed tasks, 50.0 
+Percentage of incomplete tasks, 50.0 
+Percentage of overdue tasks, 100.0 
+
+Username : reagile 
+Total tasks, 1 
+Percentage of tasks, 12.5 
+Percentage of completed tasks, 0.0 
+Percentage of incomplete tasks, 100.0 
+Percentage of overdue tasks, 100.0 
+
+Username : simon 
+Total tasks, 1 
+Percentage of tasks, 12.5 
+Percentage of completed tasks, 0.0 
+Percentage of incomplete tasks, 100.0 
+Percentage of overdue tasks, 100.0 
+
+Username : norah 
+Total tasks, 1 
+Percentage of tasks, 12.5 
+Percentage of completed tasks, 0.0 
+Percentage of incomplete tasks, 100.0 
+Percentage of overdue tasks, 100.0 
+
+Username : java 
+Total tasks, 1 
+Percentage of tasks, 12.5 
+Percentage of completed tasks, 0.0 
+Percentage of incomplete tasks, 100.0 
+Percentage of overdue tasks, 100.0 

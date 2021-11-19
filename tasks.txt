@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20-Oct-2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25-Oct-2019, No
+bayloo, write a program, write a program that will add a task, 25 Jul 21, 5-Aug-2021, Yes
+bayloo, write an article, write an article about java fundamentals, 25 Jul 21, 10-Oct-2021, No
+reagile, create an app, create an app that calculates the bond, 08 Aug 21, 28-Nov-2021, No
+simon, create a whatsapp bot, create a whatsapp bot for our company, 25 Jul 21, 10-Oct-2021, No
+norah, update the website, update the website user interface, 25 Jul 21, 10-Oct-2021, No
+java, design a user interface, design a user interface for our mobile app, 25 Jul 21, 10-Oct-2021, No
